@@ -1,7 +1,7 @@
 // =================================================================
 //
 // File: header.h 
-// Author: Pedro Perez
+// Author: Alan Patricio González Bernal
 // Description: This file contains the interface and implementation
 //				of the Chronometer class, as well as the 
 //				implementation of some support functions. This class

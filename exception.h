@@ -1,7 +1,7 @@
 // =================================================================
 //
 // File: exception.h
-// Author: Pedro Perez
+// Author: Alan Patricio González Bernal
 // Description: This file contains the definition of the different
 //				exceptions that we will use throughout the semester.
 //
